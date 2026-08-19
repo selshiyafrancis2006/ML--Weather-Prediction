@@ -88,3 +88,5 @@ RegisterNumber: 212224060241
 <img width="907" height="534" alt="image" src="https://github.com/user-attachments/assets/fb534281-9908-4319-9592-60c20cda06d9" />
 
 ## Result:
+
+Thus Implemented Random Forest Algorithm for Weather Prediction.
